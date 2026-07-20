@@ -1,7 +1,5 @@
 # My-Leetcode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-
-<!---LeetCode Topics Start-->
+A collection of LeetCode questions to ace the coding interview!
 # LeetCode Topics
 ## Two Pointers
 |  |
@@ -19,4 +17,3 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/arpita296/My-Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
-<!---LeetCode Topics End-->
