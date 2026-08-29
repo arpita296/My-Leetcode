@@ -1,5 +1,6 @@
 class Solution {
     public List<String> findRepeatedDnaSequences(String s) {
+        //using Rabin-Karp Algorithm
         int k=10;
         int rep=0;
         Set <Integer> seen=new HashSet<>();
