@@ -13,7 +13,7 @@ class Solution {
         //AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"
         //9876543210
         //
-        if(s.length()<k){
+        if(s.length()<=k){
             return new ArrayList<>();
         }
         for(int i=0;i<k;i++){
